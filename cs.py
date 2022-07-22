@@ -22,4 +22,7 @@ if __name__ == '__main__':
 n = '123'
 res = tuple(n)
 print(n, type(n), res, type(res))
+n = '123'
+res = tuple(n)
+print(n, type(n), res, type(res))
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
