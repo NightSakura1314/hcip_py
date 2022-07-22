@@ -11,3 +11,5 @@ v=1,2
 print(v,type(v))
 v=1,2
 print(v,type(v))
+v=1,2
+print(v,type(v))
