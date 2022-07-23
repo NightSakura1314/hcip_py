@@ -1,7 +1,0 @@
-sccx
-
-sddassa
-
-fghfghhgjfggfh
-
-jhhjjhgfhjghgjh
